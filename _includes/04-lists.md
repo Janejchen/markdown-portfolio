@@ -1,0 +1,3 @@
+- strawberries in yogurt
+- being able to sleep 9 hrs
+- being able to relax 
