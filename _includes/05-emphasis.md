@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I speak *chinese*, *spanish*, and *asl* (and english of course)
+I'm good at **worrying**
